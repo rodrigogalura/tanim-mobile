@@ -1,0 +1,7 @@
+{
+  "name": "tanim-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
