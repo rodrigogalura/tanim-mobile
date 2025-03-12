@@ -30,3 +30,9 @@ npm-debug.log*
 /platforms
 /plugins
 /www
+
+icon*.jpg
+splash*.jpg
+/bundle
+/resized
+/android

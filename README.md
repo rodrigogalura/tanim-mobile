@@ -1,1 +1,3 @@
 # tanim-mobile
+
+## Privacy Policy
